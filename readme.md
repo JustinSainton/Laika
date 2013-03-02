@@ -1,23 +1,23 @@
-=== Laika ===  
-Contributors: rmccue  
+=== Jaika ===  
+Contributors: JustinSainton  
 Tags: laika, sputnik, example, test  
 Requires at least: 3.2  
-Tested up to: 3.4  
-Stable tag: 1.2  
+Tested up to: 3.6-alpha  
+Stable tag: 1.3
 
-Laika is a test plugin to show you how to use Sputnik's API.
+Jaika is a test plugin to show you how to use Sputnik's API.
 
 == Description ==
 
-Laika is a test plugin to show you how to use Sputnik's API.
+Jaika is a test plugin to show you how to use Sputnik's API.
 
-Laika is dedicated to the first dog in space, who gave her life for
+Jaika is dedicated to the first dog in space, who gave her life for
 the advancement of the human race.
 
 == Installation ==
 
-1. Purchase Laika through the app store
-2. Download and activate Laika
+1. Purchase Jaika through the app store
+2. Download and activate Jaika
 3. Enjoy!
 
 == Frequently Asked Questions ==
@@ -26,10 +26,14 @@ None yet!
 
 == Screenshots ==
 
-1. Laika adds a simple dedication to your admin's footer
-2. Laika is part of the App Store!
+1. Jaika adds a simple dedication to your admin's footer
+2. Jaika is part of the App Store!
 
 == Changelog ==
+
+= 1.3 =
+
+* Laika emerges, like a Phoenix from the ashes, as Jaika
 
 = 1.2 =
 
