@@ -2,12 +2,12 @@
 /*
 Plugin Name: Jaika
 Description: An example plugin to show how to use the Sputnik API
-Version: 1.3
+Version: 1.4
 Author: Justin Sainton
 Author URI: http://zao.is/
 Sputnik ID: jaika
-Requires WPEC Version: 3.8.8
-Compatible to WPEC Version: 3.9.0
+Requires WPEC Version: 3.8.11
+Compatible to WPEC Version: 3.8.11
 */
 
 class Jaika {
