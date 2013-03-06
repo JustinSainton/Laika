@@ -2,7 +2,7 @@
 /*
 Plugin Name: Jaika
 Description: An example plugin to show how to use the Sputnik API
-Version: 1.4
+Version: 1.5
 Author: Justin Sainton
 Author URI: http://zao.is/
 Sputnik ID: jaika
