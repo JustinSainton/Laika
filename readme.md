@@ -1,11 +1,11 @@
-=== Jaika ===  
-Contributors: JustinSainton  
-Tags: laika, sputnik, example, test  
-Requires at least: 3.2  
-Tested up to: 3.6-alpha  
-Stable tag: 1.5   
-Requires WPEC Version: 3.8.11   
-Compatible to WPEC Version: 3.8.11   
+=== Jaika ===
+Contributors: JustinSainton
+Tags: laika, sputnik, example, test
+Requires at least: 3.2
+Tested up to: 3.6-alpha
+Stable tag: 1.7
+Requires WPEC Version: 3.8.11
+Compatible to WPEC Version: 3.8.11
 
 Jaika is a test plugin to show you how to use Sputnik's API.
 
